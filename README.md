@@ -1,7 +1,7 @@
 # JPGtoPNGconverter
 How to use this coverter
-1.clone this repository
-2.run JPGtoPNG.py in cmd/bash using argv 
+1.clone/Download this repository\n
+2.run JPGtoPNG.py in cmd/bash using argv \n
 ```
 python JPGtoPNG.py public/ New/
 ```
